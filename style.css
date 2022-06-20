@@ -1,0 +1,32 @@
+.colorBase {
+    color: rgb(255, 255, 255);
+    background-color: rgb(29, 26, 26);
+}
+.color0 {
+    background-color: rgb(17, 52, 117);
+    color: rgb(255, 255, 255);
+}
+
+.color1 {
+    background-color: darkcyan;
+    color: rgb(255, 255, 255);
+}
+
+.color2{
+    background-color: beige;
+    color: #3a3a3a;
+}
+
+.color3{
+    background-color: coral;
+}
+
+.color4{
+    background-color: crimson;
+    color: rgb(255, 255, 255);
+}
+
+.color5 {
+    background-color: chartreuse;
+    color: rgb(0, 0, 0);
+}
